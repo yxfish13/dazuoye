@@ -6,6 +6,7 @@ using namespace std;
 
 int main(){
     cout<<"hello beijing"<<endl;
+    cout<<"hello guangdong"<<endl;
     // cout<<"hello world"<<endl;
     return 0;
 }
